@@ -1,7 +1,7 @@
-/** Palindrome Number */
-
-// Given an integer x, return true if x is a palindrome, and false otherwise.
-
+/** Palindrome Number
+Given an integer x, return true if x is a palindrome, and false otherwise.
+@link https://leetcode.com/problems/palindrome-number/
+**/
 
 function isPalindromeConvertedString(x: number): boolean {
     if(x<0) return false;
